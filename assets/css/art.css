@@ -1,5 +1,5 @@
 .header {
-    background-color: cadetblue;
+    background-color: brass;
     background-image: url("../img/art2.jpg");
     background-size: cover;
     background-position: center center;
@@ -8,7 +8,7 @@
     height: 3em; }
 
 .header {
-    height: 20em;
+    height: 18em;
     position: relative;
     padding-bottom: 2em; }
 .header .container {
