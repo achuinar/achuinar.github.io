@@ -3,16 +3,16 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 17:26:07 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 17:26:07 -0400</lastBuildDate>
+    <link>http:///</link>
+    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 13 Sep 2018 17:33:23 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 17:33:23 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
       <item>
         <title>Déterminisme?</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et des &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
 &lt;p&gt;
 Usant de quelques stratégies de communication et au prix de gros efforts d'auto-contrôle, j'ai parfois réussi à engager certains dialogues. J'en suis sortie ponctuellement avec la satisfaction d'avoir avancé, la plupart du temps, déprimée et épuisée.
 &lt;/p&gt;
@@ -25,7 +25,7 @@ Ces études pionnières ont été réalisées sur une petit nombre d'individus (
 &lt;/p&gt;
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et des &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
 &lt;p&gt;
 Usant de quelques stratégies de communication et au prix de gros efforts d'auto-contrôle, j'ai parfois réussi à engager certains dialogues. J'en suis sortie ponctuellement avec la satisfaction d'avoir avancé, la plupart du temps, déprimée et épuisée.
 &lt;/p&gt;
@@ -39,8 +39,8 @@ Ces études pionnières ont été réalisées sur une petit nombre d'individus (
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/determinisme/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
+        <link>http:///articles/determinisme/</link>
+        <guid isPermaLink="true">http:///articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -70,8 +70,8 @@ Ces études pionnières ont été réalisées sur une petit nombre d'individus (
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/Waimea/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
+        <link>http:///articles/Waimea/</link>
+        <guid isPermaLink="true">http:///articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -122,8 +122,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/articles/impact-parameters/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
+        <link>http:///articles/impact-parameters/</link>
+        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -195,8 +195,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
+        <link>http:///articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -228,8 +228,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
+        <link>http:///articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -254,8 +254,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/wolf/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
+        <link>http:///articles/wolf/</link>
+        <guid isPermaLink="true">http:///articles/wolf/</guid>
         
         
         <category>art</category>
@@ -280,8 +280,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/alamodi/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
+        <link>http:///articles/alamodi/</link>
+        <guid isPermaLink="true">http:///articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -306,8 +306,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/harfang/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
+        <link>http:///articles/harfang/</link>
+        <guid isPermaLink="true">http:///articles/harfang/</guid>
         
         
         <category>art</category>
@@ -369,8 +369,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/indignez-vous/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
+        <link>http:///articles/indignez-vous/</link>
+        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
         
         
         <category>articles</category>
@@ -395,8 +395,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/articles/phare/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/phare/</guid>
+        <link>http:///articles/phare/</link>
+        <guid isPermaLink="true">http:///articles/phare/</guid>
         
         
         <category>art</category>
