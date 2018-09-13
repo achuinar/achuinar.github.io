@@ -3,11 +3,50 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http:///</link>
-    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Aug 2018 18:49:47 -0400</pubDate>
-    <lastBuildDate>Thu, 30 Aug 2018 18:49:47 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 13 Sep 2018 17:26:07 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 17:26:07 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>Déterminisme?</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et des &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
+&lt;p&gt;
+Usant de quelques stratégies de communication et au prix de gros efforts d'auto-contrôle, j'ai parfois réussi à engager certains dialogues. J'en suis sortie ponctuellement avec la satisfaction d'avoir avancé, la plupart du temps, déprimée et épuisée.
+&lt;/p&gt;
+&lt;p&gt;
+L'aplomb avec lequel certains humains énoncent des énormités me subjugue. Les anti-vaccins, Betsy Devos ou les climatosceptiques me paraissent être des aliens. J'en suis venue à me demander si, au delà du vécu de ces personnes, il n'existerait pas quelque prédisposition biologique qui justifierait leur addiction à la poudre de perlimpinpin. Est-ce qu'en analysant la structure cérébrale de l'humain on pourrait comprendre pourquoi certains d'entre nous se contentent de croyances pour bâtir leur opinion alors que d'autres ne jurent que par les faits?
+&lt;/p&gt;
+&lt;p&gt;En 2011, en analysant les cerveaux de 90 étudiants grâce à l’imagerie par résonance magnétique, des chercheurs-neurologues londoniens ont mis en évidence une corrélation entre vision politique conservatrice et taille de l’amygdale, la zone cérébrale chargée de la gestion de la mémoire et des émotions. Les mêmes chercheurs ont aussi montré que les étudiants plus libéraux possédaient d’avantage de matière grise au niveau du cortex cingulaire antérieur, la zone du cerveau associée à la gestion de l’incertitude et des informations conflictuelles. Cette étude est en accord avec une précédente qui avait établi un lien entre la taille du cortex cingulaire antérieur et les capacités de tolérance à l’incertitude, justifiant ainsi pourquoi les individus ayant un cortex cingulaire antérieur plus développé adoptaient majoritairement des points de vue progressistes.&amp;lt;/p&amp;gt;&lt;/p&gt;
+&lt;p&gt;
+Ces études pionnières ont été réalisées sur une petit nombre d'individus (Avez vous déjà fait un IRM? Il parait que c'est fort déplaisant.) et il reste encore beaucoup d'efforts à fournir pour déterminer l'impact significatif de critères biologiques sur nos convictions. Cependant, je me prends à rêver qu'un jour nous aurons à disposition d'avantage d'outils pour amener celles et ceux qui valorisent beaucoup les croyances à prendre aussi les faits en considération dans leurs choix politiques. Qu'on le veuille ou non, les faits ont un pouvoir que les croyances n'ont pas. Ils ont le pouvoir de nous indiquer si oui ou non nous faisons fausse route.  
+&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;J&lt;/span&gt;e ne suis décidément pas un animal politique. Il est rare que j'ai la réaction adéquate lorsque quelqu'un dans mon entourage colporte une fausse nouvelle ou défend une idée grotesque. Pour tenter d'en finir avec le qualificatif de Madame &quot;je sais tout&quot;, j'ai appris à ranger mon poing rageur dans ma poche. Cependant, la tristesse m'envahit à chaque fois que cela se produit. Je suis triste de ne pas réussir à communiquer avec celles et ceux dont le fil de pensée se perd lamentablement dans les limbes de leurs &quot;je crois&quot; et des &quot;on m'a dit&quot;. Je suis triste de me trouver sans ressort face à toutes ces espèces d'obscurantisme qui gangrènent nos sociétés.  &lt;/p&gt;
+&lt;p&gt;
+Usant de quelques stratégies de communication et au prix de gros efforts d'auto-contrôle, j'ai parfois réussi à engager certains dialogues. J'en suis sortie ponctuellement avec la satisfaction d'avoir avancé, la plupart du temps, déprimée et épuisée.
+&lt;/p&gt;
+&lt;p&gt;
+L'aplomb avec lequel certains humains énoncent des énormités me subjugue. Les anti-vaccins, Betsy Devos ou les climatosceptiques me paraissent être des aliens. J'en suis venue à me demander si, au delà du vécu de ces personnes, il n'existerait pas quelque prédisposition biologique qui justifierait leur addiction à la poudre de perlimpinpin. Est-ce qu'en analysant la structure cérébrale de l'humain on pourrait comprendre pourquoi certains d'entre nous se contentent de croyances pour bâtir leur opinion alors que d'autres ne jurent que par les faits?
+&lt;/p&gt;
+&lt;p&gt;En 2011, en analysant les cerveaux de 90 étudiants grâce à l’imagerie par résonance magnétique, des chercheurs-neurologues londoniens ont mis en évidence une corrélation entre vision politique conservatrice et taille de l’amygdale, la zone cérébrale chargée de la gestion de la mémoire et des émotions. Les mêmes chercheurs ont aussi montré que les étudiants plus libéraux possédaient d’avantage de matière grise au niveau du cortex cingulaire antérieur, la zone du cerveau associée à la gestion de l’incertitude et des informations conflictuelles. Cette étude est en accord avec une précédente qui avait établi un lien entre la taille du cortex cingulaire antérieur et les capacités de tolérance à l’incertitude, justifiant ainsi pourquoi les individus ayant un cortex cingulaire antérieur plus développé adoptaient majoritairement des points de vue progressistes.&amp;lt;/p&amp;gt;&lt;/p&gt;
+&lt;p&gt;
+Ces études pionnières ont été réalisées sur une petit nombre d'individus (Avez vous déjà fait un IRM? Il parait que c'est fort déplaisant.) et il reste encore beaucoup d'efforts à fournir pour déterminer l'impact significatif de critères biologiques sur nos convictions. Cependant, je me prends à rêver qu'un jour nous aurons à disposition d'avantage d'outils pour amener celles et ceux qui valorisent beaucoup les croyances à prendre aussi les faits en considération dans leurs choix politiques. Qu'on le veuille ou non, les faits ont un pouvoir que les croyances n'ont pas. Ils ont le pouvoir de nous indiquer si oui ou non nous faisons fausse route.  
+&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/articles/determinisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
+        
+        
+        <category>articles</category>
+        
+      </item>
+      
     
       
       <item>
@@ -31,8 +70,8 @@
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/Waimea/</link>
-        <guid isPermaLink="true">http:///articles/Waimea/</guid>
+        <link>http://localhost:4000/articles/Waimea/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -83,8 +122,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http:///articles/impact-parameters/</link>
-        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
+        <link>http://localhost:4000/articles/impact-parameters/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -156,8 +195,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
+        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -189,8 +228,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
+        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -215,8 +254,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/wolf/</link>
-        <guid isPermaLink="true">http:///articles/wolf/</guid>
+        <link>http://localhost:4000/articles/wolf/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
         
         
         <category>art</category>
@@ -241,8 +280,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/alamodi/</link>
-        <guid isPermaLink="true">http:///articles/alamodi/</guid>
+        <link>http://localhost:4000/articles/alamodi/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -267,8 +306,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/harfang/</link>
-        <guid isPermaLink="true">http:///articles/harfang/</guid>
+        <link>http://localhost:4000/articles/harfang/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
         
         
         <category>art</category>
@@ -330,8 +369,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/indignez-vous/</link>
-        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
+        <link>http://localhost:4000/articles/indignez-vous/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
         
         
         <category>articles</category>
@@ -356,34 +395,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http:///articles/phare/</link>
-        <guid isPermaLink="true">http:///articles/phare/</guid>
-        
-        
-        <category>art</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Gab's banjo</title>
-        <description>&lt;figure&gt;
-        &lt;img src=&quot;/assets/img/banjo.png&quot; alt=&quot;&quot; /&gt;
-        &lt;figcaption&gt;Acrylic paint on canvas.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-        
-          <description>&lt;figure&gt;
-        &lt;img src=&quot;/assets/img/banjo.png&quot; alt=&quot;&quot; /&gt;
-        &lt;figcaption&gt;Acrylic paint on canvas.&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        
-        <pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http:///articles/banjo/</link>
-        <guid isPermaLink="true">http:///articles/banjo/</guid>
+        <link>http://localhost:4000/articles/phare/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/phare/</guid>
         
         
         <category>art</category>
