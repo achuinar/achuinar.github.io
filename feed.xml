@@ -3,10 +3,10 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http:///</link>
-    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Sep 2018 12:08:58 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 12:08:58 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Sep 2018 12:09:01 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 12:09:01 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -46,8 +46,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/determinisme/</link>
-        <guid isPermaLink="true">http:///articles/determinisme/</guid>
+        <link>http://localhost:4000/articles/determinisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -77,8 +77,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/Waimea/</link>
-        <guid isPermaLink="true">http:///articles/Waimea/</guid>
+        <link>http://localhost:4000/articles/Waimea/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -129,8 +129,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http:///articles/impact-parameters/</link>
-        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
+        <link>http://localhost:4000/articles/impact-parameters/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -202,8 +202,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
+        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -235,8 +235,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
+        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -261,8 +261,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/wolf/</link>
-        <guid isPermaLink="true">http:///articles/wolf/</guid>
+        <link>http://localhost:4000/articles/wolf/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
         
         
         <category>art</category>
@@ -287,8 +287,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/alamodi/</link>
-        <guid isPermaLink="true">http:///articles/alamodi/</guid>
+        <link>http://localhost:4000/articles/alamodi/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -313,8 +313,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/harfang/</link>
-        <guid isPermaLink="true">http:///articles/harfang/</guid>
+        <link>http://localhost:4000/articles/harfang/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
         
         
         <category>art</category>
@@ -376,8 +376,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/indignez-vous/</link>
-        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
+        <link>http://localhost:4000/articles/indignez-vous/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
         
         
         <category>articles</category>
@@ -402,8 +402,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http:///articles/phare/</link>
-        <guid isPermaLink="true">http:///articles/phare/</guid>
+        <link>http://localhost:4000/articles/phare/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/phare/</guid>
         
         
         <category>art</category>
