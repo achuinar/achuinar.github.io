@@ -3,10 +3,10 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Sep 2018 12:09:01 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 12:09:01 -0400</lastBuildDate>
+    <link>http:///</link>
+    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Sep 2018 12:10:54 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 12:10:54 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -24,7 +24,7 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 &lt;/center&gt;
 &lt;p&gt;
 
-Ces études pionnières ont été réalisées sur une petit nombre d'individus (un IRM est, à ce qu'il parait, long et très déplaisant) et il reste donc encore beaucoup d'efforts à fournir pour déterminer l'impact significatif de critères biologiques sur nos convictions. Ce que je trouve intéressant en revanche c'est l'idée que certains être vivants, comme les humains, mais pourquoi pas aussi les éléphants, aient développé un support cérébral propice à la construction de croyance. Plusieurs experts se sont penchés sur cette question dont le fameux et controversé Richard Dawkins, mais aussi le philosophe &lt;a href=&quot;https://fr.wikipedia.org/wiki/Daniel_Dennett&quot;&gt; Daniel Dennett&lt;/a&gt;. Selon eux, l'esprit humain est le résultat d'un certain nombre de mécanismes cérébraux engendrés par la nécessité de survivre à un environnement hostile.  Parmi les mécanismes en jeu, on trouve le fait d'interpréter certains stimuli comme une potentielle menace, l'intuition naturelle que nous avons à agir moralement, la façon dont nous gérons notre mémoire, et notre penchant naturel pour les histoires. L'articulation de ces mécanismes pourrait alors conduire notre cerveau à formuler une pensée de dimension spirituelle, se passant bien de tout rationalisme. Si leurs raisonnement s'avère correct, il n'est pas impossible que notre propension à croire soit fonction de notre configuration cérébrale. &lt;/p&gt;
+Ces études pionnières ont été réalisées sur une petit nombre d'individus (un IRM est, à ce qu'il parait, long et très déplaisant) et il reste donc encore beaucoup d'efforts à fournir pour déterminer l'impact significatif de critères biologiques sur nos convictions. Ce que je trouve intéressant en revanche c'est l'idée que certains être vivants, comme les humains, mais pourquoi pas aussi les éléphants, aient développé un support cérébral propice à la construction de croyances. Plusieurs experts se sont penchés sur cette question dont le fameux et controversé Richard Dawkins, mais aussi le philosophe &lt;a href=&quot;https://fr.wikipedia.org/wiki/Daniel_Dennett&quot;&gt; Daniel Dennett&lt;/a&gt;. Selon eux, l'esprit humain est le résultat d'un certain nombre de mécanismes cérébraux engendrés par la nécessité de survivre à un environnement hostile.  Parmi les mécanismes en jeu, on trouve le fait d'interpréter certains stimuli comme une potentielle menace, l'intuition naturelle que nous avons à agir moralement, la façon dont nous gérons notre mémoire, et notre penchant naturel pour les histoires. L'articulation de ces mécanismes pourrait alors conduire notre cerveau à formuler une pensée de dimension spirituelle, se passant bien de tout rationalisme. Si leurs raisonnement s'avère correct, il n'est pas impossible que notre propension à croire soit fonction de notre configuration cérébrale. &lt;/p&gt;
 &lt;p&gt;
 Les civilisations humaines se fondent sur des mythes et se maintiennent, en tout cas partiellement, par le biais de croyances collectives. Il me semble que nous avons besoin de croire car vivre dans l'inconnu est inconfortable, mais aussi car c'est ainsi que le savoir collectif se construit. C'est le fameux concept de la boîte noire qui consiste à bâtir le savoir sur la base d'un ensemble de connaissances que l'on ne pourra pas vérifier soi-même mais que l'on prend pour acquis pour gagner du temps. Le risque c'est qu'au bout d'un moment, on oublie de remettre en question ce qu'on a mis dans la boîte, prenant certains postulats erronés ou périmés pour des vérités immuables. Ces derniers temps, quelques déchirures sont apparues à notre boîte noire étiquetée &quot;croissance du capital&quot;. Je me demande combien de temps encore elle va tenir...&lt;/p&gt;
 
@@ -46,8 +46,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/determinisme/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
+        <link>http:///articles/determinisme/</link>
+        <guid isPermaLink="true">http:///articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -77,8 +77,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/Waimea/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
+        <link>http:///articles/Waimea/</link>
+        <guid isPermaLink="true">http:///articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -129,8 +129,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/articles/impact-parameters/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
+        <link>http:///articles/impact-parameters/</link>
+        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -202,8 +202,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
+        <link>http:///articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -235,8 +235,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
+        <link>http:///articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -261,8 +261,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/wolf/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
+        <link>http:///articles/wolf/</link>
+        <guid isPermaLink="true">http:///articles/wolf/</guid>
         
         
         <category>art</category>
@@ -287,8 +287,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/alamodi/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
+        <link>http:///articles/alamodi/</link>
+        <guid isPermaLink="true">http:///articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -313,8 +313,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/harfang/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
+        <link>http:///articles/harfang/</link>
+        <guid isPermaLink="true">http:///articles/harfang/</guid>
         
         
         <category>art</category>
@@ -376,8 +376,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/articles/indignez-vous/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
+        <link>http:///articles/indignez-vous/</link>
+        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
         
         
         <category>articles</category>
@@ -402,8 +402,8 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/articles/phare/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/phare/</guid>
+        <link>http:///articles/phare/</link>
+        <guid isPermaLink="true">http:///articles/phare/</guid>
         
         
         <category>art</category>
