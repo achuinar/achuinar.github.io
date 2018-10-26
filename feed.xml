@@ -3,11 +3,78 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http:///</link>
-    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Oct 2018 11:29:39 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2018 11:29:39 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Oct 2018 18:30:33 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 18:30:33 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>Y-a-t-il un docteur dans la salle?</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;l y a quelques semaines, j'ai reçu un courriel de l'université me félicitant pour ma graduation et m'invitant à m'inscrire pour la remise des diplômes le mois prochain. Cela fait bientôt quatre mois que j'ai soumis ma thèse et six que je vis sur mes derniers deniers. J'ai beau essayer fort, je n'arrive pas tirer de mon expérience de doctorat, autre chose qu'un sentiment de soulagement. Je suis ravie des effets collatéraux que l'expérience a engendrés. Je suis extrêmement contente d'être en recherche d'emploi dans cette ville bouillante d'opportunités qu'est Montréal. Je suis tout aussi heureuse que Gabriel y ait trouvé son compte. L'idée de célébrer mon titre à coup de toge à fourrure louée et de chapeau grotesque ne m'embale, en revanche, pas du tout.
+&lt;/p&gt;
+
+&lt;p&gt;
+Ces derniers mois ont été mes plus heureux depuis mon entrée à l'université. Au cours de mon doctorat, j'ai assez rapidement mis de côté l'idée d'entreprendre une carrière académique: trop fastidieuse, trop précaire mais surtout trop spécifique. Pour la second été de ma vie, je me suis donné la possibilité de m'inventer, ou tout du moins de me réinventer. Je n'avais pas ressenti la douce euphorie d'être face à une infinité d'opportunités depuis bien longtemps. Je me sentais sereine, consciente de mes exigences et plus déterminée que jamais à trouver chaussure à mon pied. 
+&lt;/p&gt;
+
+&lt;p&gt;Je suis partie du principe que j'avais envie de changer le monde. C'est un objectif ambitieux mais pas inaccessible. Au cours des derniers mois, j'ai pris part à plusieurs initiatives volontaires. J'ai rencontré plus de personnes que durant les six années précédentes. J'ai été éblouie par la vitalité de ces gens, par leur capacité à donner de leur temps et de leur personne pour le bien commun. Parfois ils étaient là pour se racheter une once d'humanité, mais le plus souvent c'était parce qu'ils se sentaient investis d'une mission. Je me suis dit que le sens de ma vie était à portée de pioche. Je tenais le bon filon.
+&lt;/p&gt;
+
+&lt;p&gt;En septembre, j'ai rejoins une équipe de volontaires pour travailler sur un projet d'innovation en finance. Cela peut paraître osé de s'embarquer dans un projet de cette catégorie avec un bagage en économie niveau lycée. Pourtant, j'avais le sentiment que ce projet étaient parmi les seuls de la compétition à proposer une solution vraiment impactance pour la transition écologique. A présent que nous sommes sélectionnées pour la finale, je ne regrette pas d'avoir suivi mon instinct. J'ai appris énormément de chose de cette expérience tant sur le plan de ma valeur que sur ma capacité à interagie avec d'autres.
+&lt;/p&gt;
+
+&lt;p&gt;
+Beaucoup de jeunes docteurs passent par un période de questionnement profond après avoir rendu leur thèse. Nous sommes extrêmement mal outillés pour aborder cette période. Nous ne savons pas bien vendre nos compétences. Nous venons d'un milieu où les exigences sont si extrêmes (parfois même de façon deraisonnable) que nous sommes accoutumés à naturellement sous-évaluer nos compétences. Nous n'avons même plus conscience de nos qualités tant les standards sont élevés. Nous n'avons d'ailleurs pas non plus conscience de nos défauts. Si nous ne sommes pas capables d'évaluer notre vraie valeur, comment un employeur potentiel pourrait-il se faire de nous une idée claire?
+&lt;/p&gt;
+
+&lt;p&gt;
+Mes expériences de ces derniers mois m'ont ouvert les yeux et j'ai pu entrevoir l'ensemble des cordes que j'avais à mon arc ainsi que les points sur lesquels je devaient travailler d'avantage. Ces découvertes m'ont confortées dans l'idée que je de devais pas baisser mes exigences. Je reste confiante que mes efforts seront récompensés tôt ou tard.
+&lt;/p&gt;
+
+&lt;h3&gt;Ce pour quoi nous excellons&lt;/h3&gt;
+&lt;p&gt;
+Beaucoup de docteurs perdent du temps et font le choix d'accepter un job alimentaire parce qu'ils n'ont pas conscience de leur propre valeur et/ou ne savent pas comment la mettre en avant. Cela à pour conséquence de donner mauvaise réputation à l'ensemble de la communauté: trop spécialisés, trop exigeants, inadaptés, pas flexibles! C'est pourquoi j'ai décidé de dresser une liste non- exhaustive de nos précieux atouts. J'espère ainsi prouver à quelques un(e)s qu'avoir un docteur en physique dans son équipe est une excellente stratégie. Puisse-je en inspirer d'autres pour leur prochain CV.
+&lt;/p&gt;
+
+&lt;ul&gt;
+	
+&lt;h4&gt; Efficacité.&lt;/h4&gt; C'est une des choses qui m'a frappée le plus dans mes collaborations récentes. En tant que docteurs en science, nous sommes sans arrêt confrontés à des deadlines, avont l'habitude de fournir beaucoup d'effort sur des travaux le plus souvent complexes et nécessitant une collaboration étroite avec plusieurs autres scientifiques. Nous sommes capables de cerner rapidement les objectifs à réaliser, nous appréhendons les contraintes de temps et établissons nos plans d'actions en fonction des priorités. Beaucoup de gens ont tendance à s'éparpiller. Ils partent dans tous les sens et finissent souvent par se perdre. Pas nous. Nous savons répondre aux problématiques de façon adéquate et allons droit au but.
+
+&lt;h4&gt; Flexibilité dans le travail.&lt;/h4&gt; Ayant fait partie d'une grande collaboration et en tant que membre d'une équipe de recherche internationale, j'ai appris par la force des choses, à travailler en utilisant divers canaux de communication. Etre à l'aise pour collaborer à distance que ce soit par chat, sur une plateforme de developpement agile ou sur Google Drive n'est pas donné à tout le monde. Bon nombre de personnes de ma génération avec qui j'ai interagi récemment ne sont pas à l'aise avec les outils modernes de collaboration. Pourtant, à l'heure d'aujourd'hui, ce genre de plateformes qui permettent de garder trace des développements sont de plus en plus utilisées. En cela, nous avons un avantage d'adaptabilité certain.
+
+ &lt;h4&gt; Capacité d'apprentissage et de prise de recul.&lt;/h4&gt; En m'investissant dans ce projet d'innovation en finance, jai été assez surprise de voir que, même sans background préalable, j'étais rapidement en mesure de comprendre les challenges principaux mais aussi de concevoir le potentiel sur le long terme de la mise en place de notre outil. Cette prise de recul m'a semblée assez naturelle et à aucun moment je n'ai ressenti ce lourd complexe de l'imposteur qui me collait à la peau durant mon doctorat. En physique, nous construisons nos connaissance sur la base de modèles que nous prennons pour référence. Nous sommes par nature habitués et entraînés à contempler les systèmes dans leur globalité ou comme la partie d'un tout. Nous évaluons les similitudes entre différents systèmes à différentes échelles. Ce jonglage constant nous apprend à considérer les problèmes dans leur dimension globale et à cerner d'emblée les questions clés qui doivent être posées. C'est un atout très précieux.  
+&lt;/ul&gt;
+
+&lt;h3&gt;Ce sur quoi j'ai dû travailler&lt;/h3&gt;
+&lt;ul&gt;
+&lt;h4&gt; Diplomatie.&lt;/h4&gt; Etant une personne de nature assez impatiente (comme chacun sait...) et que je suis habituée au milieu de la recherche académique qui est plutôt dynamique, j'ai été extrêmement frustrée de devoir collaborer avec des gens très différents de la physicienne ou du physicien rationnels dans leurs approche des problèmes. J'ai craqué à plusieurs reprises, trouvant que les choses n'avançaient pas assez vite ou partaient dans des directions farfelues. J'ai rarement sû faire preuve de tact, ni n'aie été capable d'engager une discussion apaisée pour que le flot de travail se réoriente dans la bonne direction. J'ai préféré pesté sur l'absence d'un scrumm master ce qui m'a value d'être partiellement exclue de certains projets. Je conseille au personnes qui s'engagent dans des projets avec des personnes de backgrounds différents d'eux, de prévoir le coup et de gérer leurs émotions un peu mieux que je ne l'ai fait récemment.
+
+&lt;h4&gt; Authenticité. &lt;/h4&gt; Sortie de 6 ans de &quot;pretending-to-be&quot;, il m'est assez difficile de savoir qui je suis, ce que veux vraiment et d'énoncer clairement mes objectifs. Pourtant, à l'embauche, l'authenticité peut faire tout une différence. Depuis que j'ai compris ça, j'essaie d'être le plus claires possibles sur mes interêts pour que tout le monde soit au fait des choses, quite à passer pour une originale.
+
+&lt;h4&gt; Lâché-prise.&lt;/h4&gt; Je trouve extrêmement difficile de devoir abandonner une tâche à d'autres si j'ai l'impression que je peux la faire moi-même et mieux. Malheureusement, j'ai du apprendre à laisser faire les autres même si cela ne correspond pas à mon idéal. J'ai cependant encore beaucoup de peine à ne pas trasher un projet si je sais qu'il aurait pû être meilleur si je l'avais fait. La route est encore longue mais j'essaie de me contrôler!
+&lt;/ul&gt;
+
+&lt;p&gt;
+J'espère que ces quelques remarques remonterons le moral à tous ceux qui se cherchent et qui cherchent un job. Les challenges qui s'offrent à nous sont passionnants. Il faut se penser à la hauteur de ce dont nous rêvons.
+&lt;/p&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;l y a quelques semaines, j'ai reçu un courriel de l'université me félicitant pour ma graduation et m'invitant à m'inscrire pour la remise des diplômes le mois prochain. Cela fait bientôt quatre mois que j'ai soumis ma thèse et six que je vis sur mes derniers deniers. J'ai beau essayer fort, je n'arrive pas tirer de mon expérience de doctorat, autre chose qu'un sentiment de soulagement. Je suis ravie des effets collatéraux que l'expérience a engendrés. Je suis extrêmement contente d'être en recherche d'emploi dans cette ville bouillante d'opportunités qu'est Montréal. Je suis tout aussi heureuse que Gabriel y ait trouvé son compte. L'idée de célébrer mon titre à coup de toge à fourrure louée et de chapeau grotesque ne m'embale, en revanche, pas du tout.
+&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 26 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/articles/docteur/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/docteur/</guid>
+        
+        
+        <category>articles</category>
+        
+      </item>
+      
     
       
       <item>
@@ -46,8 +113,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/determinisme/</link>
-        <guid isPermaLink="true">http:///articles/determinisme/</guid>
+        <link>http://localhost:4000/articles/determinisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -77,8 +144,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/Waimea/</link>
-        <guid isPermaLink="true">http:///articles/Waimea/</guid>
+        <link>http://localhost:4000/articles/Waimea/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -129,8 +196,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http:///articles/impact-parameters/</link>
-        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
+        <link>http://localhost:4000/articles/impact-parameters/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -202,8 +269,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
+        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -235,8 +302,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
+        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -261,8 +328,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/wolf/</link>
-        <guid isPermaLink="true">http:///articles/wolf/</guid>
+        <link>http://localhost:4000/articles/wolf/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
         
         
         <category>art</category>
@@ -287,8 +354,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/alamodi/</link>
-        <guid isPermaLink="true">http:///articles/alamodi/</guid>
+        <link>http://localhost:4000/articles/alamodi/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -313,8 +380,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/harfang/</link>
-        <guid isPermaLink="true">http:///articles/harfang/</guid>
+        <link>http://localhost:4000/articles/harfang/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
         
         
         <category>art</category>
@@ -376,37 +443,11 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 </description>
         
         <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/indignez-vous/</link>
-        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
+        <link>http://localhost:4000/articles/indignez-vous/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
         
         
         <category>articles</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Lighthouse near La Baie</title>
-        <description>&lt;figure&gt;
-        &lt;img src=&quot;/assets/img/phare.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;figcaption&gt;Acrylic on cut canvas with nosy cat.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-        
-          <description>&lt;figure&gt;
-        &lt;img src=&quot;/assets/img/phare.jpg&quot; alt=&quot;&quot; /&gt;
-        &lt;figcaption&gt;Acrylic on cut canvas with nosy cat.&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        
-        <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http:///articles/phare/</link>
-        <guid isPermaLink="true">http:///articles/phare/</guid>
-        
-        
-        <category>art</category>
         
       </item>
       
