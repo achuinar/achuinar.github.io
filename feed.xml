@@ -5,21 +5,14 @@
     <description>Welcome to my personal website!</description>
     <link>http:///</link>
     <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Oct 2018 13:43:49 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Oct 2018 13:43:49 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Oct 2018 13:45:41 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Oct 2018 13:45:41 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
       <item>
-        <title>Docteur</title>
-        <description>&lt;p&gt;–
-layout: post
-title:  “Y-a-t-il un docteur dans la salle?”
-date:   2018-10-26
-image: deathbycomputing.jpg
-—&lt;/p&gt;
-
-&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;l y a quelques semaines, j'ai reçu un courriel de l'université me félicitant pour ma graduation et m'invitant à m'inscrire pour la remise des diplômes le mois prochain. Cela fait bientôt quatre mois que j'ai soumis ma thèse et six que je vis sur mes derniers deniers. J'ai beau essayer fort, je n'arrive pas tirer de mon expérience de doctorat autre chose qu'un sentiment de soulagement. Je suis ravie des effets collatéraux que l'expérience a engendrés. Je suis extrêmement contente d'être en recherche d'emploi dans cette ville bouillante d'opportunités qu'est Montréal. Je suis tout aussi heureuse que Gabriel y ait trouvé son compte. L'idée de célébrer mon titre à coup de toge à fourrure et de chapeau grotesque à 50$ ne m'embale, en revanche, pas du tout.
+        <title>Y-a-t-il un docteur dans la salle?</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;l y a quelques semaines, j'ai reçu un courriel de l'université me félicitant pour ma graduation et m'invitant à m'inscrire pour la remise des diplômes le mois prochain. Cela fait bientôt quatre mois que j'ai soumis ma thèse et six que je vis sur mes derniers deniers. J'ai beau essayer fort, je n'arrive pas tirer de mon expérience de doctorat autre chose qu'un sentiment de soulagement. Je suis ravie des effets collatéraux que l'expérience a engendrés. Je suis extrêmement contente d'être en recherche d'emploi dans cette ville bouillante d'opportunités qu'est Montréal. Je suis tout aussi heureuse que Gabriel y ait trouvé son compte. L'idée de célébrer mon titre à coup de toge à fourrure et de chapeau grotesque à 50$ ne m'embale, en revanche, pas du tout.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -68,12 +61,8 @@ J'espère que ces quelques remarques remonterons le moral à tous ceux qui se ch
 &lt;/p&gt;
 </description>
         
-          <description>&lt;p&gt;–
-layout: post
-title:  “Y-a-t-il un docteur dans la salle?”
-date:   2018-10-26
-image: deathbycomputing.jpg
-—&lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;I&lt;/span&gt;l y a quelques semaines, j'ai reçu un courriel de l'université me félicitant pour ma graduation et m'invitant à m'inscrire pour la remise des diplômes le mois prochain. Cela fait bientôt quatre mois que j'ai soumis ma thèse et six que je vis sur mes derniers deniers. J'ai beau essayer fort, je n'arrive pas tirer de mon expérience de doctorat autre chose qu'un sentiment de soulagement. Je suis ravie des effets collatéraux que l'expérience a engendrés. Je suis extrêmement contente d'être en recherche d'emploi dans cette ville bouillante d'opportunités qu'est Montréal. Je suis tout aussi heureuse que Gabriel y ait trouvé son compte. L'idée de célébrer mon titre à coup de toge à fourrure et de chapeau grotesque à 50$ ne m'embale, en revanche, pas du tout.
+&lt;/p&gt;
 
 </description>
         
