@@ -3,10 +3,10 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http:///</link>
-    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Nov 2018 13:40:30 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Nov 2018 13:40:30 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Jan 2019 22:07:28 -0800</pubDate>
+    <lastBuildDate>Tue, 15 Jan 2019 22:07:28 -0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -66,9 +66,9 @@ Il est important d'avoir conscience de ce que l'on est vraiment lorsque vient le
 
 </description>
         
-        <pubDate>Fri, 26 Oct 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/docteur/</link>
-        <guid isPermaLink="true">http:///articles/docteur/</guid>
+        <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/docteur/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/docteur/</guid>
         
         
         <category>articles</category>
@@ -112,9 +112,9 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 &lt;/p&gt;
 </description>
         
-        <pubDate>Thu, 13 Sep 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/determinisme/</link>
-        <guid isPermaLink="true">http:///articles/determinisme/</guid>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/determinisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -143,9 +143,9 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 &lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http:///articles/Waimea/</link>
-        <guid isPermaLink="true">http:///articles/Waimea/</guid>
+        <pubDate>Sun, 15 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/Waimea/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -195,9 +195,9 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 
 </description>
         
-        <pubDate>Wed, 03 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http:///articles/impact-parameters/</link>
-        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
+        <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/articles/impact-parameters/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -268,9 +268,9 @@ Qui sera l'essence de son obsession.
 &lt;/p&gt;
 </description>
         
-        <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -301,9 +301,9 @@ Long story short: a girl (or shall I say a woman) can expect to get more free dr
 S. was almost sobbing when she went for her bus to the airport. It's not easy to make friends in the sausages realm. When half of your colleagues are buying you drinks for mischievous  reasons, it's though not to have anybody to trash with about people's lack of humanity. Once in a while, you meet one who is different and it's heartwarming. You start hoping he could be a friend. But the cross section is rather low in this sector and these golden boys are often weakly interacting. Mother nature is sometimes not helping to go beyond the Standard Model of men.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 17 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http:///articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
+        <pubDate>Sun, 17 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -327,9 +327,9 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 &lt;/figure&gt;
 </description>
         
-        <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/wolf/</link>
-        <guid isPermaLink="true">http:///articles/wolf/</guid>
+        <pubDate>Mon, 14 Sep 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/wolf/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
         
         
         <category>art</category>
@@ -353,9 +353,9 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 &lt;/figure&gt;
 </description>
         
-        <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/alamodi/</link>
-        <guid isPermaLink="true">http:///articles/alamodi/</guid>
+        <pubDate>Thu, 20 Aug 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/alamodi/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/alamodi/</guid>
         
         
         <category>art</category>
@@ -379,9 +379,9 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 &lt;/figure&gt;
 </description>
         
-        <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/harfang/</link>
-        <guid isPermaLink="true">http:///articles/harfang/</guid>
+        <pubDate>Wed, 22 Jul 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/harfang/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/harfang/</guid>
         
         
         <category>art</category>
@@ -442,9 +442,9 @@ Québec, as tu perdu le nord ? Là-haut sur ton territoire, les autochtones vive
 &lt;/p&gt;
 </description>
         
-        <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http:///articles/indignez-vous/</link>
-        <guid isPermaLink="true">http:///articles/indignez-vous/</guid>
+        <pubDate>Wed, 15 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/articles/indignez-vous/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/indignez-vous/</guid>
         
         
         <category>articles</category>
