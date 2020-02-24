@@ -3,10 +3,10 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Feb 2020 16:40:00 -0800</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2020 16:40:00 -0800</lastBuildDate>
+    <link>http:///</link>
+    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 23 Feb 2020 16:59:42 -0800</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2020 16:59:42 -0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
@@ -29,8 +29,8 @@ Faisant une croix sur mon rêve d'intégrer un monastaire Shaolin, j'ai trouvé 
 </description>
         
         <pubDate>Sat, 15 Feb 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/articles/Travailler/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/Travailler/</guid>
+        <link>http:///articles/Travailler/</link>
+        <guid isPermaLink="true">http:///articles/Travailler/</guid>
         
         
         <category>articles</category>
@@ -76,8 +76,8 @@ Si vous ne voulez pas entendre parler de ces films, je vous prie de retourner sc
 </description>
         
         <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/articles/Screening/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/Screening/</guid>
+        <link>http:///articles/Screening/</link>
+        <guid isPermaLink="true">http:///articles/Screening/</guid>
         
         
         <category>articles</category>
@@ -132,8 +132,8 @@ Tous ça pour dire que y'en a marre du positivisme comme parole d'évangile. En 
 </description>
         
         <pubDate>Tue, 15 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/articles/orange-amere/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/orange-amere/</guid>
+        <link>http:///articles/orange-amere/</link>
+        <guid isPermaLink="true">http:///articles/orange-amere/</guid>
         
         
         <category>articles</category>
@@ -199,8 +199,8 @@ Il est important d'avoir conscience de ce que l'on est vraiment lorsque vient le
 </description>
         
         <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/docteur/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/docteur/</guid>
+        <link>http:///articles/docteur/</link>
+        <guid isPermaLink="true">http:///articles/docteur/</guid>
         
         
         <category>articles</category>
@@ -245,8 +245,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/determinisme/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
+        <link>http:///articles/determinisme/</link>
+        <guid isPermaLink="true">http:///articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -276,8 +276,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/Waimea/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
+        <link>http:///articles/Waimea/</link>
+        <guid isPermaLink="true">http:///articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -328,8 +328,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/articles/impact-parameters/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
+        <link>http:///articles/impact-parameters/</link>
+        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -401,8 +401,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
+        <link>http:///articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -434,8 +434,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
+        <link>http:///articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -460,8 +460,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/articles/wolf/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
+        <link>http:///articles/wolf/</link>
+        <guid isPermaLink="true">http:///articles/wolf/</guid>
         
         
         <category>art</category>
