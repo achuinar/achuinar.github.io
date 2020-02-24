@@ -3,16 +3,16 @@
   <channel>
     <title>Anabel Chuinard</title>
     <description>Welcome to my personal website!</description>
-    <link>http:///</link>
-    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Feb 2020 17:07:38 -0800</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2020 17:07:38 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 23 Feb 2020 17:11:29 -0800</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2020 17:11:29 -0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       
       <item>
         <title>Master of None</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;out le monde dit que Gabriel est un héros. C'est en partie parce que sa vie est très 'instagramable' à savoir que les gens n'en voit que les aspects les plus chouettes. C'est vrai que mon explorateur s'envoie en l'air et aux quatre coins du monde de bon coeur mais c'est rarement pour se la couler douce. Les plannings des productions auxquelles il participe sont toujours ultra chargés et le malheureux ne ramène jamais que des impressions fugaces voire quelques miasmes de ses tournages épiques. Une collation suspecte en pleine jungle ou une sieste apparement inoffensive sur la banquette d'un quai d'embarquement et le malheureux se voit, malgré lui, repousser les limites de son système immunitaire. Epargnés des selfies en mode Rudolph au lit, nous sommes peu nombreux à nous douter qu'à ce stade Gabriel culmine au niveau 'Animateur de Crèche' sur l'échelle de l'immunité. Son héroïsme reste confidentiel alors qu'en pleine période d'épidémie du coronavirus, Gabriel se rend au Chili pour un tournage de Mountain Bike à l'article de la mort. Il aurait suffit d'un seul malentendu pour qu'il soit mis en quarantaine à l'ambassade de Suisse de Santiago. Il semble que l'incident diplomatique ait été évité puisque je l'ai retrouvé la semaine dernière la mine rayonnante et le nez plus rose d'un trop plein de soleil que d'avoir trop mouché.&lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;out le monde dit que Gabriel est un héros. C'est en partie parce que sa vie est très 'instagramable' à savoir que les gens n'en voit que les aspects les plus chouettes. C'est vrai que mon explorateur s'envoie en l'air et aux quatre coins du monde de bon coeur mais c'est rarement pour se la couler douce. Les plannings des productions auxquelles il participe sont toujours ultra chargés et le malheureux ne ramène jamais que des impressions fugaces voire quelques miasmes de ses périlleux tournages. Une collation suspecte en pleine jungle ou une sieste apparement inoffensive sur la banquette d'un quai d'embarquement et le malheureux se voit, malgré lui, repousser les limites de son système immunitaire. Epargnés des selfies en mode Rudolph au lit, nous sommes peu nombreux à nous douter qu'à ce stade Gabriel culmine au niveau 'Animateur de Crèche' sur l'échelle de l'immunité. Son héroïsme reste confidentiel alors qu'en pleine période d'épidémie du coronavirus, Gabriel se rend au Chili. Quoi de plus épique qu'un tournage de Mountain Bike lorsqu'on est à l'article de la mort? Il aurait suffit d'un seul malentendu pour qu'il soit mis en quarantaine à l'ambassade de Suisse de Santiago. Il semble que l'incident diplomatique ait été évité puisque je l'ai retrouvé la semaine dernière la mine rayonnante et le nez plus rose d'un trop plein de soleil que d'avoir trop mouché.&lt;/p&gt;
 
 &lt;p&gt;J'ai toujours pensé que Gab était destiné à devenir Kung-Fu Master: agilité et coordination, capacité à rester concentrer sur l'exercise d'une tâche méticuleuse, aptitude à l'introspection, barbichette hirsute et passion pour les pantalons trop amples. Une vie d'entraînement physique et mental lui aurait surement permise de maîtriser cet art à la perfection. Je l'imagine souvent, projetant son corps sec et agile dans les airs, éxecutant des mouvements précis et gracieux dans la plus parfaite harmonie. Convoquant des aptitudes assez similaires, la profession de pilote de drone est une alternative carrément plus confortable. Consacrant la quasi-totalité de son temps libre à perfectionner l'execution de manoeuvres acrobatiques à la seule force de ses pouces, le grand maître Gabi-San a vu ses pouvoir décupler en quelques mois. Il faut dire que ses talents se combinent à merveille. Le fait qu'il en ait pris conscience et ait décidé d'en exploiter la synergie est remarquable. Il fait maintenant partie du club très select des gens qui vivent de leur passion, et c'est cela que la plupart de nos amis semblent lui envier. J'ai moi même passé beaucoup de temps à organiser ma vie pour rejoindre le club des passionés, sauf que je me suis vite rendue compte que cela n'allait pas le faire étant donnés mes talents décousus. Saviez vous que je fais un excellent tiramisu et que je casse trop la baraque en négociation? Dans quelle situation ses deux talents pourraient ils se combiner à bon escient pour faire de moi un être exceptionnel? Strictement aucune.
 &lt;/p&gt;
@@ -24,13 +24,13 @@ Faisant une croix sur mon rêve d'intégrer un monastaire Shaolin, j'ai trouvé 
 &lt;/p&gt;
 </description>
         
-          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;out le monde dit que Gabriel est un héros. C'est en partie parce que sa vie est très 'instagramable' à savoir que les gens n'en voit que les aspects les plus chouettes. C'est vrai que mon explorateur s'envoie en l'air et aux quatre coins du monde de bon coeur mais c'est rarement pour se la couler douce. Les plannings des productions auxquelles il participe sont toujours ultra chargés et le malheureux ne ramène jamais que des impressions fugaces voire quelques miasmes de ses tournages épiques. Une collation suspecte en pleine jungle ou une sieste apparement inoffensive sur la banquette d'un quai d'embarquement et le malheureux se voit, malgré lui, repousser les limites de son système immunitaire. Epargnés des selfies en mode Rudolph au lit, nous sommes peu nombreux à nous douter qu'à ce stade Gabriel culmine au niveau 'Animateur de Crèche' sur l'échelle de l'immunité. Son héroïsme reste confidentiel alors qu'en pleine période d'épidémie du coronavirus, Gabriel se rend au Chili pour un tournage de Mountain Bike à l'article de la mort. Il aurait suffit d'un seul malentendu pour qu'il soit mis en quarantaine à l'ambassade de Suisse de Santiago. Il semble que l'incident diplomatique ait été évité puisque je l'ai retrouvé la semaine dernière la mine rayonnante et le nez plus rose d'un trop plein de soleil que d'avoir trop mouché.&lt;/p&gt;
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;out le monde dit que Gabriel est un héros. C'est en partie parce que sa vie est très 'instagramable' à savoir que les gens n'en voit que les aspects les plus chouettes. C'est vrai que mon explorateur s'envoie en l'air et aux quatre coins du monde de bon coeur mais c'est rarement pour se la couler douce. Les plannings des productions auxquelles il participe sont toujours ultra chargés et le malheureux ne ramène jamais que des impressions fugaces voire quelques miasmes de ses périlleux tournages. Une collation suspecte en pleine jungle ou une sieste apparement inoffensive sur la banquette d'un quai d'embarquement et le malheureux se voit, malgré lui, repousser les limites de son système immunitaire. Epargnés des selfies en mode Rudolph au lit, nous sommes peu nombreux à nous douter qu'à ce stade Gabriel culmine au niveau 'Animateur de Crèche' sur l'échelle de l'immunité. Son héroïsme reste confidentiel alors qu'en pleine période d'épidémie du coronavirus, Gabriel se rend au Chili. Quoi de plus épique qu'un tournage de Mountain Bike lorsqu'on est à l'article de la mort? Il aurait suffit d'un seul malentendu pour qu'il soit mis en quarantaine à l'ambassade de Suisse de Santiago. Il semble que l'incident diplomatique ait été évité puisque je l'ai retrouvé la semaine dernière la mine rayonnante et le nez plus rose d'un trop plein de soleil que d'avoir trop mouché.&lt;/p&gt;
 
 </description>
         
         <pubDate>Sat, 15 Feb 2020 00:00:00 -0800</pubDate>
-        <link>http:///articles/Travailler/</link>
-        <guid isPermaLink="true">http:///articles/Travailler/</guid>
+        <link>http://localhost:4000/articles/Travailler/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Travailler/</guid>
         
         
         <category>articles</category>
@@ -76,8 +76,8 @@ Si vous ne voulez pas entendre parler de ces films, je vous prie de retourner sc
 </description>
         
         <pubDate>Sat, 23 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http:///articles/Screening/</link>
-        <guid isPermaLink="true">http:///articles/Screening/</guid>
+        <link>http://localhost:4000/articles/Screening/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Screening/</guid>
         
         
         <category>articles</category>
@@ -132,8 +132,8 @@ Tous ça pour dire que y'en a marre du positivisme comme parole d'évangile. En 
 </description>
         
         <pubDate>Tue, 15 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http:///articles/orange-amere/</link>
-        <guid isPermaLink="true">http:///articles/orange-amere/</guid>
+        <link>http://localhost:4000/articles/orange-amere/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/orange-amere/</guid>
         
         
         <category>articles</category>
@@ -199,8 +199,8 @@ Il est important d'avoir conscience de ce que l'on est vraiment lorsque vient le
 </description>
         
         <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http:///articles/docteur/</link>
-        <guid isPermaLink="true">http:///articles/docteur/</guid>
+        <link>http://localhost:4000/articles/docteur/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/docteur/</guid>
         
         
         <category>articles</category>
@@ -245,8 +245,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Thu, 13 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http:///articles/determinisme/</link>
-        <guid isPermaLink="true">http:///articles/determinisme/</guid>
+        <link>http://localhost:4000/articles/determinisme/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/determinisme/</guid>
         
         
         <category>articles</category>
@@ -276,8 +276,8 @@ En 2011, en analysant les cerveaux de 90 étudiants grâce à l'imagerie par ré
 </description>
         
         <pubDate>Sun, 15 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http:///articles/Waimea/</link>
-        <guid isPermaLink="true">http:///articles/Waimea/</guid>
+        <link>http://localhost:4000/articles/Waimea/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Waimea/</guid>
         
         
         <category>articles</category>
@@ -328,8 +328,8 @@ I listed those that appeared to be the most relevant in terms of impact. The met
 </description>
         
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http:///articles/impact-parameters/</link>
-        <guid isPermaLink="true">http:///articles/impact-parameters/</guid>
+        <link>http://localhost:4000/articles/impact-parameters/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/impact-parameters/</guid>
         
         
         <category>articles</category>
@@ -401,8 +401,8 @@ Qui sera l'essence de son obsession.
 </description>
         
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http:///articles/apologie-des-fantasmes/</link>
-        <guid isPermaLink="true">http:///articles/apologie-des-fantasmes/</guid>
+        <link>http://localhost:4000/articles/apologie-des-fantasmes/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/apologie-des-fantasmes/</guid>
         
         
         <category>articles</category>
@@ -434,8 +434,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Sun, 17 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http:///articles/das-reich-der-wuerste/</link>
-        <guid isPermaLink="true">http:///articles/das-reich-der-wuerste/</guid>
+        <link>http://localhost:4000/articles/das-reich-der-wuerste/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/das-reich-der-wuerste/</guid>
         
         
         <category>articles</category>
@@ -460,8 +460,8 @@ S. was almost sobbing when she went for her bus to the airport. It's not easy to
 </description>
         
         <pubDate>Mon, 14 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http:///articles/wolf/</link>
-        <guid isPermaLink="true">http:///articles/wolf/</guid>
+        <link>http://localhost:4000/articles/wolf/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wolf/</guid>
         
         
         <category>art</category>
